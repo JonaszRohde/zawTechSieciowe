@@ -11,5 +11,5 @@ https://developer.edamam.com/edamam-recipe-api
 
 Twórcy
 
-Jonasz Rohde 51106
+Jonasz Rohde 51106  
 Dawid Krefft 50921
