@@ -1,6 +1,6 @@
 Aplikacja “Przepisy Babci” służy do wyświetlania przepisów potraw.
 
-Komendy potrzebne do uruchomienia:
+Komendy potrzebne do uruchomienia:  
 npm install react-scripts --save  
 npm audit fix  
 npm start  
